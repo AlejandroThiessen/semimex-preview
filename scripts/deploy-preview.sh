@@ -16,7 +16,9 @@ echo "▸ Publicando en la rama gh-pages"
 touch dist/.nojekyll                 # GitHub Pages ignora carpetas con _ si falta esto
 git add -f dist
 TREE=$(git write-tree --prefix=dist/)
-PARENT=$(git rev-parse -q --verify refs/heads/gh-pages || true)
+# Importante: el commit debe tener un padre que el remoto ya conozca. Si es huérfano,
+# git no sabe que las imágenes ya están allá y vuelve a subir los 124 MB completos.
+PARENT=$(git rev-parse -q --verify refs/heads/gh-pages || git rev-parse -q --verify HEAD || true)
 if [ -n "$PARENT" ]; then
   COMMIT=$(git commit-tree "$TREE" -p "$PARENT" -m "Vista previa $(date +%F' '%H:%M)")
 else
