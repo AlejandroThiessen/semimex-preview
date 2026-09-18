@@ -309,24 +309,41 @@ p{text-wrap:pretty}
 @media(max-width:900px){
   .hero{grid-template-columns:1fr}
   /* el recorte 16:10 ya viene servido: sin reencuadre lateral */
-  .hero__slide img{object-position:center!important}
-  .hero__media{order:-1;aspect-ratio:16/10;min-height:0}
+  .hero__slide img{object-position:center 42%!important}
+  .hero__media{
+    order:-1;min-height:0;
+    /* altura ligada al alto de pantalla, no al ancho: en un teléfono angosto
+       una relación fija se volvía una franja delgada */
+    height:clamp(200px,38vh,330px);
+  }
   .hero__media::before{
-    background:linear-gradient(to bottom,transparent 55%,rgba(4,24,13,.55) 88%,var(--brand-900) 100%);
+    background:linear-gradient(to bottom,transparent 58%,rgba(4,24,13,.5) 86%,var(--brand-900) 100%);
   }
   .hero__panel{
-    padding-inline:max(1rem,(100vw - var(--wrap))/2);
-    padding-block:var(--sp-6) var(--sp-7);
+    padding-inline:max(1.25rem,(100vw - var(--wrap))/2);
+    padding-block:var(--sp-5) var(--sp-6);
   }
   .hero__content{max-width:none}
-  .hero .h1{margin-top:var(--sp-3)}
+  .hero .h1{margin-top:var(--sp-2);font-size:clamp(1.9rem,1.1rem + 3.4vw,2.6rem)}
+  .hero__lead{margin-top:var(--sp-3);font-size:1rem;max-width:40ch}
+  .hero__actions{margin-top:var(--sp-5);gap:.6rem}
+  .hero__stats{margin-top:var(--sp-5);padding-top:var(--sp-4);gap:var(--sp-4)}
   .hero__dots{right:.9rem;bottom:.9rem}
 }
 @media(max-width:560px){
-  .hero__media{aspect-ratio:4/3}
-  .hero__actions .btn{flex:1 1 100%}
-  .hero__stat{flex:1 1 40%}
-  .hero__stats{gap:var(--sp-4) var(--sp-5);margin-top:var(--sp-5);padding-top:var(--sp-4)}
+  .hero__media{height:clamp(190px,34vh,280px)}
+  .hero__actions{flex-direction:column}
+  .hero__actions .btn{width:100%;padding-block:.85rem}
+  /* tres métricas en una sola fila: 2×2 comía media pantalla */
+  .hero__stat--opt{display:none}
+  .hero__stats{display:flex;gap:1.25rem;flex-wrap:nowrap}
+  .hero__stat{flex:1 1 0;min-width:0}
+  .hero__stat b{font-size:1.5rem}
+  .hero__stat span{font-size:.7rem;line-height:1.25;display:block}
+}
+@media(max-width:380px){
+  .hero__stat span{font-size:.65rem}
+  .hero .h1{font-size:1.75rem}
 }
 @media(prefers-reduced-motion:reduce){
   .hero__slide{transition:none}
@@ -416,6 +433,12 @@ p{text-wrap:pretty}
 @media(max-width:960px){
   .filters{position:static}
   .filters[data-open="false"] .filters__body{display:none}
+  .filters[data-open="false"]{padding:var(--sp-3) var(--sp-4)}
+}
+@media(max-width:768px){
+  .catalog{gap:var(--sp-4)}
+  .section:has(.catalog){padding-top:var(--sp-4)}
+  .catalog__bar{margin-bottom:var(--sp-4);padding-bottom:var(--sp-3)}
 }
 .filters__head{display:flex;align-items:center;justify-content:space-between;gap:.5rem}
 .filters__head h2{font-size:var(--step-1);font-weight:700;display:flex;align-items:center;gap:.5rem}
@@ -447,8 +470,22 @@ p{text-wrap:pretty}
 .search-box input{padding-left:2.5rem}
 
 /* ---------- Ficha de vehículo ---------- */
-.vehicle{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(320px,1fr);gap:var(--sp-6);align-items:start}
-@media(max-width:1000px){.vehicle{grid-template-columns:1fr}}
+/* Escritorio: columna izquierda (título · galería · detalles) + panel fijo a la derecha.
+   Móvil: el panel sube justo debajo de la galería, para que el precio y el botón de
+   WhatsApp queden cerca y no al final de la página. */
+.vehicle{
+  display:grid;grid-template-columns:minmax(0,1.6fr) minmax(320px,1fr);
+  column-gap:var(--sp-6);row-gap:var(--sp-5);align-items:start;
+}
+.vehicle__head{grid-column:1;grid-row:1}
+.vehicle__gallery{grid-column:1;grid-row:2}
+.vehicle__details{grid-column:1;grid-row:3;margin-top:var(--sp-3)}
+.vehicle .vpanel{grid-column:2;grid-row:1 / span 3}
+@media(max-width:1000px){
+  .vehicle{grid-template-columns:1fr;row-gap:var(--sp-5)}
+  .vehicle__head,.vehicle__gallery,.vehicle__details,.vehicle .vpanel{grid-column:1;grid-row:auto}
+  .vehicle__details{margin-top:0}
+}
 .gallery{display:grid;gap:.6rem}
 .gallery__main{
   position:relative;aspect-ratio:4/3;border-radius:var(--r-lg);overflow:hidden;
@@ -597,6 +634,23 @@ form .grid-2{display:grid;grid-template-columns:1fr 1fr;gap:var(--sp-4)}
 .pagehead{background:var(--bg-alt);border-bottom:1px solid var(--border);padding-block:var(--sp-6) var(--sp-7)}
 .pagehead .h1{font-size:var(--step-4)}
 .pagehead p{margin-top:var(--sp-3);color:var(--text-muted);font-size:var(--step-1);max-width:62ch}
+@media(max-width:768px){
+  .pagehead{padding-block:var(--sp-3) var(--sp-5)}
+  .pagehead p{font-size:1rem;margin-top:var(--sp-2)}
+  .breadcrumb{padding-block:var(--sp-3) var(--sp-2)}
+}
+
+/* Contenido principal + columna lateral (financiamiento). Antes iba con estilos
+   en línea sin punto de quiebre, así que en móvil no se apilaba y la calculadora
+   se encimaba con el texto. */
+.layout-aside{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(300px,1fr);gap:var(--sp-7);align-items:start}
+.layout-aside__col{position:sticky;top:calc(var(--nav-h) + 1rem);display:grid;gap:var(--sp-4)}
+@media(max-width:900px){
+  .layout-aside{grid-template-columns:1fr;gap:var(--sp-6)}
+  .layout-aside__col{position:static}
+}
+.cards--2{grid-template-columns:1fr 1fr}
+@media(max-width:640px){.cards--2{grid-template-columns:1fr}}
 
 /* ---------- Footer ---------- */
 .footer{background:var(--brand-900);color:#b4cebd;padding-block:var(--sp-8) var(--sp-5);margin-top:auto}
@@ -627,6 +681,10 @@ form .grid-2{display:grid;grid-template-columns:1fr 1fr;gap:var(--sp-4)}
   transition:transform .18s var(--ease),box-shadow .18s var(--ease);
 }
 .wa-float:hover{transform:translateY(-2px) scale(1.02);box-shadow:0 10px 30px rgba(37,211,102,.5)}
+/* Mientras el hero está a la vista ya hay un botón de WhatsApp: el flotante
+   sobra y se encimaba con él en móvil. */
+.wa-float{transition:transform .18s var(--ease),box-shadow .18s var(--ease),opacity .18s var(--ease)}
+.wa-float.is-tucked{opacity:0;transform:translateY(16px) scale(.9);pointer-events:none}
 .wa-float svg{width:22px;height:22px}
 @media(max-width:560px){.wa-float span{display:none}.wa-float{padding:.9rem;right:.85rem;bottom:.85rem}}
 
