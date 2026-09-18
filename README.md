@@ -139,6 +139,41 @@ proceso y las preguntas frecuentes. Edita y reconstruye.
 - **Hosting tradicional (cPanel/FTP)** — sube el contenido de `dist/` a `public_html`.
   En ese caso las redirecciones hay que pasarlas a `.htaccess` (ver `_redirects`).
 
+
+---
+
+## Vista previa pública (GitHub Pages)
+
+El sitio está publicado como **propuesta** en:
+
+> **https://alejandrothiessen.github.io/semimex-preview/**
+
+Para actualizarla después de cualquier cambio:
+
+```bash
+./scripts/deploy-preview.sh
+```
+
+Ese script construye con tres diferencias respecto al build de producción:
+
+| | Producción | Vista previa |
+|---|---|---|
+| URL base | `/` | `/semimex-preview/` |
+| `robots` | `index,follow` | **`noindex,nofollow`** + `robots.txt` con `Disallow: /` |
+| Barra superior | — | Aviso de "Vista previa · no es el sitio oficial" |
+
+El `noindex` es importante: evita que Google indexe una copia del negocio y que
+la vista previa compita con `semimex.com.mx` en los resultados de búsqueda.
+
+**Para el sitio definitivo** (en su dominio) se construye sin esas banderas:
+
+```bash
+npm run build        # rutas en la raíz, indexable, sin barra de aviso
+```
+
+### Cómo quitar la barra de vista previa
+Es una sola bandera: quita `PREVIEW=1` de `scripts/deploy-preview.sh`.
+
 ---
 
 ## Sobre los datos migrados
