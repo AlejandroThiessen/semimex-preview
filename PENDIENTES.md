@@ -43,6 +43,11 @@ Cuando lo decidan, agrego `"formEndpoint": "…"` en `src/data/sitio.json`.
 **Sin esto, los formularios no entregan nada.**
 
 ### 3. Dónde se publica
+
+> **Nota:** la vista previa en GitHub Pages **no aplica las redirecciones** del
+> archivo `_redirects` (GitHub Pages no las soporta). Eso sólo importa para el
+> sitio definitivo: si se publica en Netlify o Cloudflare Pages funcionan solas;
+> si se queda en hosting tradicional hay que pasarlas a `.htaccess`.
 Necesito saber:
 - ¿Se queda en el hosting actual o se mueve a Netlify / Cloudflare Pages / Vercel?
 - ¿Quién tiene el acceso al dominio `semimex.com.mx` (DNS)?
