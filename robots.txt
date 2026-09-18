@@ -1,0 +1,3 @@
+# Vista previa privada — no indexar
+User-agent: *
+Disallow: /

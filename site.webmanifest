@@ -1,0 +1,27 @@
+{
+  "name": "SemiMex — Seminuevos Mexicanos",
+  "short_name": "SemiMex",
+  "description": "Compra y venta de autos, camionetas y pick-ups seminuevos en Cuauhtémoc, Chihuahua. Unidades revisadas, financiamiento bancario y tomamos tu auto a cuenta.",
+  "start_url": "/semimex-preview/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f2038",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "/semimex-preview/img/brand/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/semimex-preview/img/brand/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/semimex-preview/img/brand/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
