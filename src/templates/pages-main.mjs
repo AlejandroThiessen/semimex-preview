@@ -41,7 +41,7 @@ export function home(site, cars, imgs, lote = []) {
         <source srcset="${srcM}" sizes="100vw">
         <img src="/img/lote/${f.base}-m720.webp" alt="${esc(f.alt)}"
              width="${f.m.w}" height="${f.m.h}"
-             ${i === 0 ? 'fetchpriority="high" loading="eager"' : 'loading="lazy"'}
+             loading="eager" fetchpriority="${i === 0 ? 'high' : 'low'}"
              decoding="async" style="background:${f.color};object-position:${f.posD}">
       </picture>`;
   }).join('');
@@ -59,9 +59,8 @@ export function home(site, cars, imgs, lote = []) {
       <span class="eyebrow">Cuauhtémoc, Chihuahua</span>
       <h1 class="h1">Seminuevos revisados,<br>precio directo de lote</h1>
       <p class="hero__lead">
-        Camionetas, pick-ups y autos seleccionados uno por uno. Con financiamiento
-        bancario, y tomamos tu unidad actual a cuenta. Sin intermediarios y con
-        papeles en regla.
+        Camionetas, pick-ups y autos seleccionados uno por uno.
+        Financiamiento bancario y tomamos tu unidad a cuenta.
       </p>
       <div class="hero__actions">
         <a class="btn btn--primary btn--lg" href="/vehiculos/">Ver ${cars.length} unidades ${icon('arrowRight')}</a>
@@ -70,7 +69,7 @@ export function home(site, cars, imgs, lote = []) {
       <div class="hero__stats">
         <div class="hero__stat"><b>${cars.length}</b><span>Unidades en piso</span></div>
         <div class="hero__stat"><b>${marcasN}</b><span>Marcas</span></div>
-        <div class="hero__stat"><b>${anioMin}–${anioMax}</b><span>Años modelo</span></div>
+        <div class="hero__stat hero__stat--opt"><b>${anioMin}–${anioMax}</b><span>Años modelo</span></div>
         <div class="hero__stat"><b>$${(minP / 1000).toFixed(0)}k</b><span>Desde</span></div>
       </div>
     </div>
@@ -408,12 +407,12 @@ export function vehiculo(site, car, imgs, todos) {
 
 <section style="padding-bottom:var(--sp-8)">
   <div class="wrap vehicle">
-    <div>
-      <div style="margin-bottom:var(--sp-5)">
-        <span class="eyebrow">${esc(car.marca)} · ${esc(car.categoria)}</span>
-        <h1 class="h1" style="font-size:var(--step-3);margin-top:.6rem">${esc(car.titulo)}</h1>
-      </div>
+    <header class="vehicle__head">
+      <span class="eyebrow">${esc(car.marca)} · ${esc(car.categoria)}</span>
+      <h1 class="h1" style="font-size:var(--step-3);margin-top:.6rem">${esc(car.titulo)}</h1>
+    </header>
 
+    <div class="vehicle__gallery">
       ${g.length ? `
       <div class="gallery" data-gallery>
         <div class="gallery__main" data-gallery-main role="button" tabindex="0" aria-label="Ampliar imagen">
@@ -434,21 +433,6 @@ export function vehiculo(site, car, imgs, todos) {
       <script type="application/json" data-gallery-data>${JSON.stringify(g.map(e => ({ s: imgPath(car.slug, e.i, 1600), t: imgPath(car.slug, e.i, 800), w: e.w, h: e.h, c: e.c })))}</script>
       ` : `<div class="empty">${icon('imageOff')}<h3 class="h3">Fotografías en preparación</h3><p class="muted" style="margin-top:.5rem">Esta unidad está en el lote pero aún no subimos sus fotos. Escríbenos y te las mandamos por WhatsApp hoy mismo.</p></div>`}
 
-      <div class="stack" style="margin-top:var(--sp-7)">
-        <h2 class="h3">Ficha técnica</h2>
-        <div class="specs">
-          ${specs.map(([k, v]) => `<div class="spec"><span class="spec__k">${esc(k)}</span><span class="spec__v">${esc(v)}</span></div>`).join('')}
-        </div>
-        ${features.length ? `
-        <h2 class="h3" style="margin-top:var(--sp-5)">Equipamiento</h2>
-        <div class="vfeatures">${features.map(f => `<span class="feature">${icon('check')}${esc(f)}</span>`).join('')}</div>` : ''}
-        ${car.notas ? `<h2 class="h3" style="margin-top:var(--sp-5)">Detalles de la unidad</h2><p class="vnotes">${esc(car.notas)}</p>` : ''}
-        ${car.importado ? `
-        <div class="card" style="margin-top:var(--sp-5);border-left:4px solid var(--accent-500)">
-          <h3 style="font-size:var(--step-1)">Unidad importada</h3>
-          <p>Este vehículo fue internado legalmente a México y cuenta con su documentación aduanal correspondiente. Te mostramos el documento original antes de cerrar cualquier trato.</p>
-        </div>` : ''}
-      </div>
     </div>
 
     <aside class="vpanel">
@@ -496,6 +480,22 @@ export function vehiculo(site, car, imgs, todos) {
         <a class="btn btn--ghost btn--block btn--sm" href="https://www.google.com/maps/search/?api=1&query=${site.direccion.mapaQuery}" target="_blank" rel="noopener">${icon('pin')} Cómo llegar</a>
       </div>
     </aside>
+
+    <div class="vehicle__details stack">
+      <h2 class="h3">Ficha técnica</h2>
+      <div class="specs">
+        ${specs.map(([k, v]) => `<div class="spec"><span class="spec__k">${esc(k)}</span><span class="spec__v">${esc(v)}</span></div>`).join('')}
+      </div>
+      ${features.length ? `
+      <h2 class="h3" style="margin-top:var(--sp-5)">Equipamiento</h2>
+      <div class="vfeatures">${features.map(f => `<span class="feature">${icon('check')}${esc(f)}</span>`).join('')}</div>` : ''}
+      ${car.notas ? `<h2 class="h3" style="margin-top:var(--sp-5)">Detalles de la unidad</h2><p class="vnotes">${esc(car.notas)}</p>` : ''}
+      ${car.importado ? `
+      <div class="card" style="margin-top:var(--sp-5);border-left:4px solid var(--accent-500)">
+        <h3 style="font-size:var(--step-1)">Unidad importada</h3>
+        <p>Este vehículo fue internado legalmente a México y cuenta con su documentación aduanal correspondiente. Te mostramos el documento original antes de cerrar cualquier trato.</p>
+      </div>` : ''}
+    </div>
   </div>
 </section>
 

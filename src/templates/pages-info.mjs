@@ -140,7 +140,7 @@ ${pageHead({
 })}
 
 <section class="section">
-  <div class="wrap" style="display:grid;grid-template-columns:minmax(0,1.3fr) minmax(320px,1fr);gap:var(--sp-7);align-items:start">
+  <div class="wrap layout-aside">
     <div class="prose">
       <h2 class="h3">Cómo funciona</h2>
       <p>No necesitas ir al banco por tu cuenta. Aquí mismo levantamos tu solicitud, la mandamos
@@ -155,7 +155,7 @@ ${pageHead({
       </ul>
 
       <h2 class="h3" style="margin-top:2rem">Qué necesitas para solicitar</h2>
-      <div class="cards" style="grid-template-columns:1fr 1fr;margin-top:1rem">
+      <div class="cards cards--2" style="margin-top:1rem">
         ${reqs.map(r => `
         <div class="card" style="padding:var(--sp-4)">
           <div style="display:flex;gap:.6rem;align-items:flex-start">
@@ -178,7 +178,7 @@ ${pageHead({
       </div>
     </div>
 
-    <aside style="position:sticky;top:calc(var(--nav-h) + 1rem);display:grid;gap:var(--sp-4)">
+    <aside class="layout-aside__col">
       <div class="calc" data-calc data-precio="500000">
         <div>
           <h3 style="font-size:var(--step-1)">Calcula tu mensualidad</h3>
