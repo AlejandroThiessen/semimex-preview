@@ -1,0 +1,3679 @@
+{
+ "2023-ford-f-250-super-duty-king-ranch-6-7l": [
+  {
+   "i": 0,
+   "w": 2560,
+   "h": 1920,
+   "c": "#79746d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/12/20231219_104947-scaled.jpg"
+  },
+  {
+   "i": 1,
+   "w": 2048,
+   "h": 1536,
+   "c": "#212f3e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/12/20231219_104849-2048x1536.jpg"
+  },
+  {
+   "i": 2,
+   "w": 2048,
+   "h": 1536,
+   "c": "#79746d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/12/20231219_104947-2048x1536.jpg"
+  }
+ ],
+ "chevrolet-suburban-high-country-4x4-2025": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#979890",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-06-at-4.15.45-PM.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 900,
+   "c": "#9d9c93",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-06-at-4.15.45-PM-1.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 900,
+   "c": "#5e5e61",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-06-at-4.15.44-PM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1129,
+   "h": 858,
+   "c": "#8d9189",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-06-at-4.15.41-PM.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 900,
+   "h": 1600,
+   "c": "#6d7172",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-06-at-4.15.43-PM-2.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 900,
+   "c": "#89877e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-06-at-4.15.45-PM-3.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 900,
+   "h": 1600,
+   "c": "#616461",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-06-at-4.15.44-PM-1.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 900,
+   "h": 1600,
+   "c": "#98998e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-06-at-4.15.46-PM.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 900,
+   "h": 1600,
+   "c": "#6b6b65",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-06-at-4.15.42-PM-1.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1600,
+   "h": 900,
+   "c": "#939286",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-06-at-4.15.41-PM-2.jpeg"
+  },
+  {
+   "i": 10,
+   "w": 1600,
+   "h": 900,
+   "c": "#73726d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-06-at-4.15.42-PM-2.jpeg"
+  }
+ ],
+ "bmw-x3-m-competition-2024": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#a78f8b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-9.17.09-AM-4.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1381,
+   "h": 900,
+   "c": "#a38883",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-9.17.09-AM-5.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 1600,
+   "c": "#b6a19b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-9.17.05-AM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1475,
+   "h": 830,
+   "c": "#59555d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-9.17.08-AM.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 811,
+   "h": 1210,
+   "c": "#9e817a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-9.17.09-AM-6.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1404,
+   "h": 1032,
+   "c": "#b39d99",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-9.17.06-AM.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 900,
+   "h": 1600,
+   "c": "#6e675e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-9.17.09-AM-2.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1600,
+   "h": 900,
+   "c": "#b18b82",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-9.17.10-AM.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1600,
+   "h": 900,
+   "c": "#a3756f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-9.17.09-AM-3.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 900,
+   "h": 1600,
+   "c": "#6a7274",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-9.17.09-AM-1.jpeg"
+  }
+ ],
+ "gmc-sierra-delani-2024": [
+  {
+   "i": 0,
+   "w": 1200,
+   "h": 1600,
+   "c": "#a3a39f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.21.52-AM.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1096,
+   "h": 1436,
+   "c": "#9e9c94",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.21.52-AM-3.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1008,
+   "h": 1280,
+   "c": "#a6a6a2",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.21.55-AM-5.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 1200,
+   "c": "#827f7f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.21.54-AM.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1307,
+   "h": 921,
+   "c": "#a1a19d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.21.55-AM-4.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1200,
+   "h": 1600,
+   "c": "#7a7b7b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.21.55-AM-1.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1100,
+   "h": 1156,
+   "c": "#717575",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.21.55-AM-6.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1200,
+   "h": 1600,
+   "c": "#7b7975",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.21.55-AM-2.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1200,
+   "h": 1600,
+   "c": "#a49f98",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.21.52-AM-2.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1120,
+   "h": 1600,
+   "c": "#959595",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.21.55-AM-3.jpeg"
+  }
+ ],
+ "audi-q8-quattro-s-line-2023": [
+  {
+   "i": 0,
+   "w": 1280,
+   "h": 720,
+   "c": "#8f8e8d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-8.58.40-AM.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1129,
+   "h": 720,
+   "c": "#908e8f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-8.58.39-AM-4.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1091,
+   "h": 1280,
+   "c": "#818387",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-8.58.39-AM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1280,
+   "h": 720,
+   "c": "#535251",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-8.58.40-AM-5.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 1600,
+   "c": "#929397",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-8.58.43-AM-4.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 720,
+   "h": 1280,
+   "c": "#5a5d59",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-8.58.43-AM.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1028,
+   "h": 705,
+   "c": "#898889",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-8.58.39-AM-3.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1296,
+   "h": 1600,
+   "c": "#6e7479",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-8.58.43-AM-5.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 720,
+   "h": 1280,
+   "c": "#62645f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-8.58.42-AM.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1280,
+   "h": 720,
+   "c": "#7f7b7c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-8.58.39-AM-2.jpeg"
+  }
+ ],
+ "chevrolet-cheyenne-4x4-paq-d-zr2-2024": [
+  {
+   "i": 0,
+   "w": 2048,
+   "h": 1193,
+   "c": "#9b8884",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/727125073_1556410516278982_2882581600374638536_n.jpg"
+  },
+  {
+   "i": 1,
+   "w": 2048,
+   "h": 1357,
+   "c": "#9e857e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/726860483_1556410612945639_6087215843370289433_n.jpg"
+  },
+  {
+   "i": 2,
+   "w": 2048,
+   "h": 1396,
+   "c": "#af968d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/725839080_1556410606278973_7375384511744902208_n.jpg"
+  },
+  {
+   "i": 3,
+   "w": 2048,
+   "h": 1152,
+   "c": "#676561",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/725258130_1556410462945654_4192115331675972848_n.jpg"
+  },
+  {
+   "i": 4,
+   "w": 2048,
+   "h": 1269,
+   "c": "#948583",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/727243673_1556410632945637_9065917900839566873_n.jpg"
+  },
+  {
+   "i": 5,
+   "w": 2048,
+   "h": 1427,
+   "c": "#9a817b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/727497494_1556410392945661_9144077496476187018_n.jpg"
+  },
+  {
+   "i": 6,
+   "w": 1152,
+   "h": 2048,
+   "c": "#6e5856",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/727519973_1556410246279009_4932542662008426210_n.jpg"
+  },
+  {
+   "i": 7,
+   "w": 2048,
+   "h": 1518,
+   "c": "#9b7b78",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/728025674_1556410459612321_6360904933298448669_n.jpg"
+  },
+  {
+   "i": 8,
+   "w": 2048,
+   "h": 1152,
+   "c": "#aa766f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/727001859_1556410552945645_8199115239974075750_n.jpg"
+  },
+  {
+   "i": 9,
+   "w": 1152,
+   "h": 2048,
+   "c": "#766a67",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/725166089_1556410249612342_2449413630453614396_n.jpg"
+  },
+  {
+   "i": 10,
+   "w": 2048,
+   "h": 1325,
+   "c": "#a45f5c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/725173257_1556410489612318_8737119364974265916_n.jpg"
+  }
+ ],
+ "ford-expedition-limited-4x2-2023": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#a1a09a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-11-at-3.07.23-PM.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1351,
+   "h": 900,
+   "c": "#a5a39b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-11-at-3.07.22-PM-1.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 900,
+   "c": "#726d70",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-11-at-3.07.21-PM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 1600,
+   "c": "#b0b0a5",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-11-at-3.07.25-PM.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 900,
+   "h": 1600,
+   "c": "#716661",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-11-at-3.07.23-PM-6.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 900,
+   "c": "#a19b91",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-11-at-3.07.22-PM-2.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 900,
+   "c": "#7d7673",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-11-at-3.07.23-PM-1.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1600,
+   "h": 1600,
+   "c": "#b0aea3",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-11-at-3.07.24-PM-3.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1600,
+   "h": 900,
+   "c": "#867975",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-11-at-3.07.21-PM-1.jpeg"
+  }
+ ],
+ "chevrolet-suburban-high-country-2021": [
+  {
+   "i": 0,
+   "w": 1280,
+   "h": 960,
+   "c": "#7a7b76",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-08-at-11.13.51-AM-3.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1280,
+   "h": 960,
+   "c": "#787974",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-08-at-11.13.46-AM-1.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1280,
+   "h": 960,
+   "c": "#787771",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-08-at-11.13.51-AM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1280,
+   "h": 960,
+   "c": "#74746f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-08-at-11.13.51-AM-4.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 960,
+   "h": 1280,
+   "c": "#797a74",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-08-at-11.13.47-AM.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1280,
+   "h": 960,
+   "c": "#54514b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-08-at-11.13.50-AM.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 960,
+   "h": 1280,
+   "c": "#63645c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-08-at-11.13.50-AM-1.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 960,
+   "h": 1280,
+   "c": "#5f5854",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-08-at-11.13.49-AM-2.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 960,
+   "h": 1280,
+   "c": "#727370",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-08-at-11.13.51-AM-1.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1280,
+   "h": 960,
+   "c": "#666660",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-08-at-11.13.49-AM-1.jpeg"
+  },
+  {
+   "i": 10,
+   "w": 1280,
+   "h": 960,
+   "c": "#61605b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-08-at-11.13.50-AM-2.jpeg"
+  }
+ ],
+ "ford-lobo-xlt-4x4-2023": [
+  {
+   "i": 0,
+   "w": 2560,
+   "h": 1920,
+   "c": "#7d736a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/05/20250514_154734-scaled.jpg"
+  },
+  {
+   "i": 1,
+   "w": 2048,
+   "h": 1536,
+   "c": "#827c7a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/05/20250514_155142-2048x1536.jpg"
+  },
+  {
+   "i": 2,
+   "w": 2048,
+   "h": 1536,
+   "c": "#877e76",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/05/20250514_154718-2048x1536.jpg"
+  },
+  {
+   "i": 3,
+   "w": 2048,
+   "h": 1536,
+   "c": "#81726e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/05/20250514_154753-2048x1536.jpg"
+  },
+  {
+   "i": 4,
+   "w": 2048,
+   "h": 1536,
+   "c": "#6d6a6b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/05/20250514_154853-2048x1536.jpg"
+  },
+  {
+   "i": 5,
+   "w": 2048,
+   "h": 1536,
+   "c": "#918b85",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/05/20250514_155101-2048x1536.jpg"
+  },
+  {
+   "i": 6,
+   "w": 2048,
+   "h": 1536,
+   "c": "#786d6c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/05/20250514_154808-2048x1536.jpg"
+  }
+ ],
+ "ford-f-250-super-duty-xlt-2022": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#906b63",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-10.19.17-AM-5.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 900,
+   "c": "#8a6a65",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-10.19.18-AM.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 1066,
+   "c": "#987d7a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-10.19.12-AM-1.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 900,
+   "h": 1600,
+   "c": "#968e85",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-10.19.17-AM-2.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 1066,
+   "c": "#aa8785",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-10.19.12-AM.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 1066,
+   "c": "#8b615d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-10.19.15-AM.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 900,
+   "c": "#a25652",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-10.19.17-AM-4.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1600,
+   "h": 1066,
+   "c": "#876363",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-10.19.17-AM-1.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1600,
+   "h": 900,
+   "c": "#75615b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-10.19.18-AM-2.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1600,
+   "h": 900,
+   "c": "#8a7863",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-16-at-10.19.18-AM-1.jpeg"
+  }
+ ],
+ "ram-1500-mild-hybrid-limited-at-cr-2022": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 1200,
+   "c": "#76746e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-24-at-11.54.12-AM-1.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 1200,
+   "c": "#74736a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-24-at-11.54.11-AM-1.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 1200,
+   "c": "#7d7b72",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-24-at-11.54.11-AM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1200,
+   "h": 1600,
+   "c": "#767670",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-24-at-11.54.12-AM.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1200,
+   "h": 1600,
+   "c": "#747065",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-24-at-11.54.13-AM-1.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 1200,
+   "c": "#76726a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-24-at-11.54.13-AM-3.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 1200,
+   "c": "#535450",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-24-at-11.54.14-AM-2.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1200,
+   "h": 1600,
+   "c": "#636460",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-24-at-11.54.14-AM-1.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1200,
+   "h": 1600,
+   "c": "#656763",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-24-at-11.54.14-AM-3.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1200,
+   "h": 1600,
+   "c": "#7c776e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-24-at-11.54.13-AM-2.jpeg"
+  },
+  {
+   "i": 10,
+   "w": 1600,
+   "h": 1200,
+   "c": "#6a6965",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-24-at-11.54.14-AM-4.jpeg"
+  }
+ ],
+ "ford-lobo-limited-2021-2": [
+  {
+   "i": 0,
+   "w": 2560,
+   "h": 1920,
+   "c": "#73716f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/20250913_104038-scaled.jpg"
+  },
+  {
+   "i": 1,
+   "w": 2048,
+   "h": 1536,
+   "c": "#767471",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/20250913_103720-2048x1536.jpg"
+  },
+  {
+   "i": 2,
+   "w": 2048,
+   "h": 1536,
+   "c": "#79736e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/20250913_103705-2048x1536.jpg"
+  },
+  {
+   "i": 3,
+   "w": 2048,
+   "h": 1536,
+   "c": "#766f6c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/20250913_103735-2048x1536.jpg"
+  },
+  {
+   "i": 4,
+   "w": 2048,
+   "h": 1536,
+   "c": "#6d6a6b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/20250913_103852-2048x1536.jpg"
+  },
+  {
+   "i": 5,
+   "w": 2048,
+   "h": 1536,
+   "c": "#747573",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/20250913_103643-2048x1536.jpg"
+  },
+  {
+   "i": 6,
+   "w": 2048,
+   "h": 1536,
+   "c": "#737071",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/20250913_103750-2048x1536.jpg"
+  }
+ ],
+ "chevrolet-cheyenne-rst-crew-cab-2019": [
+  {
+   "i": 0,
+   "w": 2560,
+   "h": 1920,
+   "c": "#77736e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/10/20230929_094402-scaled.jpg"
+  },
+  {
+   "i": 1,
+   "w": 2048,
+   "h": 1536,
+   "c": "#77736e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/10/20230929_094402-2048x1536.jpg"
+  },
+  {
+   "i": 2,
+   "w": 2048,
+   "h": 1536,
+   "c": "#767371",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/10/20230929_094443-2048x1536.jpg"
+  },
+  {
+   "i": 3,
+   "w": 2048,
+   "h": 1536,
+   "c": "#595a5b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/10/20230929_094604-2048x1536.jpg"
+  },
+  {
+   "i": 4,
+   "w": 2048,
+   "h": 1536,
+   "c": "#746f6d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/10/20230929_094856-2048x1536.jpg"
+  },
+  {
+   "i": 5,
+   "w": 2048,
+   "h": 1536,
+   "c": "#5e5d5a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/10/20230929_094932-2048x1536.jpg"
+  }
+ ],
+ "bmw-x1-xdrive-25e-2024": [
+  {
+   "i": 0,
+   "w": 2560,
+   "h": 1920,
+   "c": "#797978",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/20240814_133846-scaled.jpg"
+  },
+  {
+   "i": 1,
+   "w": 2048,
+   "h": 1536,
+   "c": "#8d8782",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/20240814_134403-2048x1536.jpg"
+  },
+  {
+   "i": 2,
+   "w": 2048,
+   "h": 1536,
+   "c": "#818080",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/20240814_133831-2048x1536.jpg"
+  },
+  {
+   "i": 3,
+   "w": 2048,
+   "h": 1536,
+   "c": "#7c7a7a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/20240814_133904-2048x1536.jpg"
+  },
+  {
+   "i": 4,
+   "w": 2048,
+   "h": 1536,
+   "c": "#565657",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/20240814_134040-2048x1536.jpg"
+  },
+  {
+   "i": 5,
+   "w": 2048,
+   "h": 1536,
+   "c": "#605e5f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/20240814_133937-2048x1536.jpg"
+  },
+  {
+   "i": 6,
+   "w": 2048,
+   "h": 1536,
+   "c": "#626162",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/20240814_133958-2048x1536.jpg"
+  }
+ ],
+ "ford-expedition-platinum-max-4x4-2020": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#a5a6a1",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-4.11.38-PM-3.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1345,
+   "h": 900,
+   "c": "#a09f96",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-4.11.38-PM-2.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1256,
+   "h": 861,
+   "c": "#a7a69c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-4.11.38-PM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1561,
+   "h": 878,
+   "c": "#616266",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-4.11.38-PM-5.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1468,
+   "h": 1600,
+   "c": "#979992",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-4.11.38-PM-4.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1451,
+   "h": 882,
+   "c": "#a4a199",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-4.11.40-PM.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 900,
+   "h": 1600,
+   "c": "#666865",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-4.11.39-PM-2.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1348,
+   "h": 1396,
+   "c": "#9b9c96",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-4.11.39-PM-1.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1315,
+   "h": 900,
+   "c": "#9f9a91",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-4.11.38-PM-1.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 900,
+   "h": 1600,
+   "c": "#686e6d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-4.11.39-PM-5.jpeg"
+  },
+  {
+   "i": 10,
+   "w": 1405,
+   "h": 900,
+   "c": "#767976",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-4.11.39-PM.jpeg"
+  },
+  {
+   "i": 11,
+   "w": 1392,
+   "h": 1600,
+   "c": "#7c7771",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-4.11.39-PM-6.jpeg"
+  }
+ ],
+ "ford-f-250-super-duty-crew-cab-diesel-4x4-2017": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#94958c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-25-at-3.51.36-PM-2.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 900,
+   "c": "#84837a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-25-at-3.51.36-PM-5.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 900,
+   "c": "#656468",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-25-at-3.51.37-PM-3.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 1066,
+   "c": "#8a8987",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-25-at-3.51.35-PM.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 900,
+   "c": "#696c6b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-25-at-3.51.36-PM-6.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 1066,
+   "c": "#9b9999",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-25-at-3.51.36-PM-1.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 900,
+   "c": "#625e5d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-25-at-3.51.37-PM-2.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1600,
+   "h": 1066,
+   "c": "#858483",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-25-at-3.51.36-PM.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1600,
+   "h": 900,
+   "c": "#67655e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-25-at-3.51.37-PM-1.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1600,
+   "h": 900,
+   "c": "#878175",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-25-at-3.51.36-PM-3.jpeg"
+  }
+ ],
+ "ford-f-250-superduty-crew-cab-diesel-4x4-2019": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#a6a298",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-25-at-11.40.59-AM-2.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1426,
+   "h": 900,
+   "c": "#a39e94",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-25-at-11.40.58-AM-7.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1505,
+   "h": 872,
+   "c": "#65635f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-25-at-11.40.57-AM-5.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1292,
+   "h": 1600,
+   "c": "#9c9992",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-25-at-11.40.58-AM-1.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 900,
+   "h": 1600,
+   "c": "#6c6e6b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-25-at-11.40.58-AM-2.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1351,
+   "h": 900,
+   "c": "#9f9d95",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-25-at-11.40.57-AM-3.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 900,
+   "h": 1600,
+   "c": "#6e6e6a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-25-at-11.40.57-AM-4.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1424,
+   "h": 900,
+   "c": "#aaa39a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-25-at-11.40.59-AM.jpeg"
+  }
+ ],
+ "gmc-sierra-denali-doble-cab-4x4-paq-e-2020": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 1200,
+   "c": "#777570",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-02-at-12.39.46-PM-2.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 1200,
+   "c": "#767772",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-02-at-12.39.46-PM.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 1200,
+   "c": "#807f79",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-02-at-12.39.45-PM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1200,
+   "h": 1600,
+   "c": "#74746c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-02-at-12.39.46-PM-1.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1200,
+   "h": 1600,
+   "c": "#7c776d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-02-at-12.39.47-PM-3.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 1200,
+   "c": "#454642",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-02-at-12.39.50-PM.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1200,
+   "h": 1600,
+   "c": "#6a6861",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-02-at-12.39.49-PM.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1200,
+   "h": 1600,
+   "c": "#57564f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-02-at-12.39.48-PM-1.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1200,
+   "h": 1600,
+   "c": "#787671",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-02-at-12.39.48-PM.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1600,
+   "h": 1200,
+   "c": "#605f59",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-02-at-12.39.52-PM.jpeg"
+  }
+ ],
+ "jeep-wrangler-unlimited-sahara-2018": [
+  {
+   "i": 0,
+   "w": 2560,
+   "h": 1920,
+   "c": "#8b8781",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/10/20231005_134857-scaled.jpg"
+  },
+  {
+   "i": 1,
+   "w": 2048,
+   "h": 1536,
+   "c": "#868077",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/10/20231005_134450-2048x1536.jpg"
+  },
+  {
+   "i": 2,
+   "w": 2048,
+   "h": 1536,
+   "c": "#8b8781",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/10/20231005_134857-2048x1536.jpg"
+  },
+  {
+   "i": 3,
+   "w": 2048,
+   "h": 1536,
+   "c": "#8a8581",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/10/20231005_134930-2048x1536.jpg"
+  }
+ ],
+ "subaru-wrx-performance-2025": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#989891",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-12-at-8.58.20-AM-1.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1354,
+   "h": 900,
+   "c": "#9a9b94",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-12-at-8.58.20-AM-4.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 1600,
+   "c": "#97958a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-12-at-8.58.23-AM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1417,
+   "h": 900,
+   "c": "#676969",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-12-at-8.58.21-AM-3.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 1600,
+   "c": "#818078",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-12-at-8.58.23-AM-1.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 1600,
+   "c": "#888d89",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-12-at-8.58.20-AM.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 900,
+   "h": 1600,
+   "c": "#7f7f7c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-12-at-8.58.21-AM.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1391,
+   "h": 849,
+   "c": "#9d9b94",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-12-at-8.58.22-AM-1.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1600,
+   "h": 1600,
+   "c": "#848079",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-12-at-8.58.22-AM.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1600,
+   "h": 900,
+   "c": "#9f9d96",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-12-at-8.58.20-AM-3.jpeg"
+  },
+  {
+   "i": 10,
+   "w": 900,
+   "h": 1600,
+   "c": "#6d716e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-12-at-8.58.21-AM-4.jpeg"
+  }
+ ],
+ "ford-f-100-ranger-raptor-4x4-diesel-2021": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 1066,
+   "c": "#7b7f83",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.04.13-PM.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 1066,
+   "c": "#7e8285",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.04.12-PM-4.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 1066,
+   "c": "#7c8085",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.04.13-PM-4.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 1066,
+   "c": "#7c7f87",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.04.13-PM-2.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 1066,
+   "c": "#8e9092",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.04.13-PM-1.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 1066,
+   "c": "#828c9b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.04.14-PM.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 1066,
+   "c": "#646b77",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.04.12-PM-1.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1600,
+   "h": 1066,
+   "c": "#81868f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.04.13-PM-3.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1600,
+   "h": 1066,
+   "c": "#545053",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.04.12-PM.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1600,
+   "h": 1066,
+   "c": "#696e75",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.04.12-PM-2.jpeg"
+  },
+  {
+   "i": 10,
+   "w": 1600,
+   "h": 1066,
+   "c": "#626265",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.04.12-PM-3.jpeg"
+  }
+ ],
+ "ford-ranger-wildtrak-2024": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#b1afa8",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-13-at-11.25.13-AM-5.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1277,
+   "h": 815,
+   "c": "#9b9b95",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-13-at-11.25.13-AM-4.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1248,
+   "h": 1600,
+   "c": "#888986",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-13-at-11.25.13-AM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 900,
+   "c": "#74746f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-13-at-11.25.14-AM.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1342,
+   "h": 1600,
+   "c": "#999a92",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/5.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 900,
+   "h": 1600,
+   "c": "#72706c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-13-at-11.25.14-AM-1.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1293,
+   "h": 1600,
+   "c": "#a2a199",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-13-at-11.25.14-AM-7.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 900,
+   "h": 1600,
+   "c": "#71706d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-13-at-11.25.14-AM-2.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1407,
+   "h": 872,
+   "c": "#9d9993",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-13-at-11.25.13-AM-3FF.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1284,
+   "h": 1600,
+   "c": "#8c8782",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-13-at-11.25.14-AM-5.jpeg"
+  }
+ ],
+ "chevrolet-cheyenne-2500-4x4-rst-2022": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#aa8986",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-30-at-2.37.58-PM.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1423,
+   "h": 900,
+   "c": "#9d7976",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-30-at-2.37.57-PM-4.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 900,
+   "c": "#b38f89",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-30-at-2.37.57-PM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 900,
+   "c": "#625b58",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-30-at-2.37.58-PM-4.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 1600,
+   "c": "#ad988f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-30-at-2.37.59-PM.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 900,
+   "h": 1600,
+   "c": "#7b756e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-30-at-2.37.58-PM-5.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 1600,
+   "c": "#ab7a7b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-30-at-2.37.59-PM-1.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 900,
+   "h": 1600,
+   "c": "#786e6a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-30-at-2.37.58-PM-6.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1600,
+   "h": 900,
+   "c": "#b98b86",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-30-at-2.37.57-PM-3.jpeg"
+  }
+ ],
+ "chevrolet-silverado-4x4-2020": [],
+ "ford-lobo-king-ranch-2017": [
+  {
+   "i": 0,
+   "w": 2560,
+   "h": 1920,
+   "c": "#7e7970",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/IMG_1027-1-scaled.jpg"
+  },
+  {
+   "i": 1,
+   "w": 2048,
+   "h": 1536,
+   "c": "#7a6863",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/IMG_1031-2-2048x1536.jpg"
+  },
+  {
+   "i": 2,
+   "w": 2048,
+   "h": 1536,
+   "c": "#4f443c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/IMG_1034-1-2048x1536.jpg"
+  },
+  {
+   "i": 3,
+   "w": 2048,
+   "h": 1536,
+   "c": "#62615c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/IMG_1037-2-2048x1536.jpg"
+  }
+ ],
+ "ford-lobo-king-ranch-crew-cab-2019": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#9b928f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-13-at-9.03.47-AM.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 900,
+   "c": "#9f928d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-13-at-9.03.34-AM.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 900,
+   "h": 1360,
+   "c": "#b6afa5",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-13-at-9.03.46-AM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 900,
+   "c": "#937770",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-13-at-9.04.01-AM.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 900,
+   "c": "#6d5c59",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-13-at-9.04.03-AM.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 900,
+   "c": "#afa299",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-13-at-9.04.06-AM-1.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 900,
+   "c": "#b29f9d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-13-at-9.03.29-AM.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 900,
+   "h": 1600,
+   "c": "#b7a99f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-13-at-9.04.10-AM.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 900,
+   "h": 1600,
+   "c": "#7d685c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-13-at-9.04.06-AM.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1600,
+   "h": 900,
+   "c": "#946e69",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-13-at-9.03.38-AM.jpeg"
+  }
+ ],
+ "toyota-rav-4-limited-hev-2024": [
+  {
+   "i": 0,
+   "w": 1280,
+   "h": 960,
+   "c": "#777671",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-06-at-5.02.55-PM.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1280,
+   "h": 960,
+   "c": "#7a7971",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-06-at-5.02.46-PM.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1280,
+   "h": 960,
+   "c": "#818077",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-06-at-5.02.37-PM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 1066,
+   "c": "#757474",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/IMG-20260311-WA0004.jpg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 1066,
+   "c": "#8e8e8f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/IMG-20260311-WA0003.jpg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 1066,
+   "c": "#6c6c6d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/IMG-20260311-WA0007.jpg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 1066,
+   "c": "#656666",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/IMG-20260311-WA0008.jpg"
+  },
+  {
+   "i": 7,
+   "w": 1600,
+   "h": 1066,
+   "c": "#6e6e6f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/IMG-20260311-WA0009.jpg"
+  },
+  {
+   "i": 8,
+   "w": 1280,
+   "h": 960,
+   "c": "#4c4d48",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-06-at-5.03.00-PM.jpeg"
+  }
+ ],
+ "ford-lobo-platinum-4x4-2019": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#9c9994",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.43.13-PM-1.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1237,
+   "h": 816,
+   "c": "#838380",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.43.14-PM.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1421,
+   "h": 805,
+   "c": "#6a6663",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.43.14-PM-2.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1368,
+   "h": 1600,
+   "c": "#a0a19a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.43.13-PM-2.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 900,
+   "h": 1600,
+   "c": "#6d6c65",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.43.14-PM-5.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 900,
+   "h": 1600,
+   "c": "#5f5e5b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.43.14-PM-4.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1333,
+   "h": 900,
+   "c": "#8d8686",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.43.14-PM-1.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1256,
+   "h": 1600,
+   "c": "#867e7b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.43.13-PM-4.jpeg"
+  }
+ ],
+ "toyota-highlander-xle-2022": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#a5a39d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-29-at-8.29.03-AM-1.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1360,
+   "h": 1600,
+   "c": "#9a9b97",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-29-at-8.29.03-AM-3.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1408,
+   "h": 1600,
+   "c": "#aaaba1",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-29-at-8.29.02-AM-1.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 900,
+   "h": 1600,
+   "c": "#80807c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-29-at-8.29.02-AM-6.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1396,
+   "h": 1600,
+   "c": "#aaaba2",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-29-at-8.29.02-AM.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 900,
+   "h": 1600,
+   "c": "#807d75",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-29-at-8.29.02-AM-3.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1336,
+   "h": 883,
+   "c": "#99948e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-29-at-8.29.02-AM-5.jpeg"
+  }
+ ],
+ "ford-lobo-xlt-4x2-crew-cab-2020": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#a6a19a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-11.09.05-AM-2.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 900,
+   "c": "#999793",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-11.09.05-AM-1.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 900,
+   "c": "#797775",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-11.09.05-AM-3.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 1600,
+   "c": "#ababa3",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-11.09.05-AM-9.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 900,
+   "h": 1600,
+   "c": "#84827b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-11.09.05-AM-4.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 900,
+   "c": "#99938e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-11.09.05-AM.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 900,
+   "h": 1600,
+   "c": "#827e78",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-11.09.05-AM-5.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1600,
+   "h": 1600,
+   "c": "#858385",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-11.09.05-AM-8.jpeg"
+  }
+ ],
+ "ford-explorer-limited-2017": [
+  {
+   "i": 0,
+   "w": 2560,
+   "h": 1920,
+   "c": "#7a7570",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/20230901_153808-scaled.jpg"
+  },
+  {
+   "i": 1,
+   "w": 2048,
+   "h": 1536,
+   "c": "#7a7570",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/20230901_153808-2048x1536.jpg"
+  },
+  {
+   "i": 2,
+   "w": 2048,
+   "h": 1536,
+   "c": "#6c6a65",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/20230901_153451-2048x1536.jpg"
+  },
+  {
+   "i": 3,
+   "w": 2048,
+   "h": 1536,
+   "c": "#5a5556",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/20230901_153531-2048x1536.jpg"
+  },
+  {
+   "i": 4,
+   "w": 2048,
+   "h": 1536,
+   "c": "#4a4948",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/20230901_153615-2048x1536.jpg"
+  },
+  {
+   "i": 5,
+   "w": 2048,
+   "h": 1536,
+   "c": "#767571",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/20230901_153848-2048x1536.jpg"
+  },
+  {
+   "i": 6,
+   "w": 2048,
+   "h": 1536,
+   "c": "#1a1b1d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/20230901_153358-2048x1536.jpg"
+  }
+ ],
+ "ford-lobo-platinum-2016": [
+  {
+   "i": 0,
+   "w": 2560,
+   "h": 1920,
+   "c": "#7f7b74",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/03/20250320_114042-scaled.jpg"
+  },
+  {
+   "i": 1,
+   "w": 2048,
+   "h": 1536,
+   "c": "#6d6b67",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/03/20250320_114446-2048x1536.jpg"
+  },
+  {
+   "i": 2,
+   "w": 2048,
+   "h": 1536,
+   "c": "#726c67",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/03/20250320_114029-2048x1536.jpg"
+  },
+  {
+   "i": 3,
+   "w": 2048,
+   "h": 1536,
+   "c": "#79706c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/03/20250320_114059-2048x1536.jpg"
+  },
+  {
+   "i": 4,
+   "w": 2048,
+   "h": 1536,
+   "c": "#545456",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/03/20250320_114238-2048x1536.jpg"
+  },
+  {
+   "i": 5,
+   "w": 2048,
+   "h": 1536,
+   "c": "#5b5b5a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/03/20250320_114404-2048x1536.jpg"
+  },
+  {
+   "i": 6,
+   "w": 2048,
+   "h": 1536,
+   "c": "#585a56",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/03/20250320_114206-2048x1536.jpg"
+  },
+  {
+   "i": 7,
+   "w": 2048,
+   "h": 1536,
+   "c": "#79746f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/03/20250320_114140-2048x1536.jpg"
+  }
+ ],
+ "ford-ranger-diesel-2020": [
+  {
+   "i": 0,
+   "w": 2560,
+   "h": 1920,
+   "c": "#8f867c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/07/20250725_093102-scaled.jpg"
+  },
+  {
+   "i": 1,
+   "w": 2048,
+   "h": 1536,
+   "c": "#8b8583",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/07/20250725_093539-2048x1536.jpg"
+  },
+  {
+   "i": 2,
+   "w": 2048,
+   "h": 1536,
+   "c": "#928982",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/07/20250725_093046-2048x1536.jpg"
+  },
+  {
+   "i": 3,
+   "w": 2048,
+   "h": 1536,
+   "c": "#8e837f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/07/20250725_093118-2048x1536.jpg"
+  },
+  {
+   "i": 4,
+   "w": 2048,
+   "h": 1536,
+   "c": "#6a696b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/07/20250725_093221-2048x1536.jpg"
+  },
+  {
+   "i": 5,
+   "w": 2048,
+   "h": 1536,
+   "c": "#787470",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/07/20250725_093449-2048x1536.jpg"
+  },
+  {
+   "i": 6,
+   "w": 2048,
+   "h": 1536,
+   "c": "#646260",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/07/20250725_093151-2048x1536.jpg"
+  },
+  {
+   "i": 7,
+   "w": 2048,
+   "h": 1536,
+   "c": "#7d7572",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/07/20250725_093132-2048x1536.jpg"
+  }
+ ],
+ "jaguar-f-pace-2019-importada-con-decreto": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#a09e97",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-5.15.29-PM-5.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1292,
+   "h": 900,
+   "c": "#aba9a2",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-5.15.29-PM-3.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1435,
+   "h": 883,
+   "c": "#5c5b5b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-5.15.30-PM-3.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1312,
+   "h": 1600,
+   "c": "#9e9c92",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-5.15.29-PM-4.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1401,
+   "h": 1600,
+   "c": "#a9a79e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-5.15.29-PM-1.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 900,
+   "h": 1600,
+   "c": "#6e6e70",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-5.15.31-PM-1.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 900,
+   "c": "#a29c92",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-5.15.29-PM-7.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1494,
+   "h": 1600,
+   "c": "#807e7a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-5.15.29-PM-2.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 900,
+   "h": 1600,
+   "c": "#71716f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-5.15.31-PM-2.jpeg"
+  }
+ ],
+ "cadillac-escalade-platinum-2015": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#72716b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-28-at-5.39.05-PM.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 900,
+   "c": "#74726b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-28-at-5.39.06-PM-1.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 900,
+   "c": "#555453",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-28-at-5.39.05-PM-5.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 1066,
+   "c": "#8b8c8b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-28-at-5.39.06-PM-2.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 900,
+   "c": "#45474b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-28-at-5.39.06-PM.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 1066,
+   "c": "#939393",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-28-at-5.39.06-PM-4.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 900,
+   "h": 1600,
+   "c": "#5a5852",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-28-at-5.39.07-PM-1.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1600,
+   "h": 900,
+   "c": "#6f6963",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-28-at-5.39.05-PM-2.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 900,
+   "h": 1600,
+   "c": "#686760",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-28-at-5.39.06-PM-6.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1600,
+   "h": 1066,
+   "c": "#605b5d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-28-at-5.39.06-PM-5.jpeg"
+  }
+ ],
+ "dodge-ram-rt-4x4-2016": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#b5b1ac",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.42.46-PM-7.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1319,
+   "h": 900,
+   "c": "#acaaa6",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.42.46-PM-4.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1441,
+   "h": 1600,
+   "c": "#a7a9a1",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.42.45-PM-2.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 900,
+   "c": "#86827e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.42.46-PM-5.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1260,
+   "h": 1600,
+   "c": "#a3a39f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.42.45-PM.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 900,
+   "c": "#bab4af",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.42.46-PM-2.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 900,
+   "h": 1600,
+   "c": "#7f7d74",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.42.46-PM-6.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1441,
+   "h": 900,
+   "c": "#b6b3ae",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.42.46-PM.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1432,
+   "h": 1600,
+   "c": "#b6b4ac",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.42.46-PM-3.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 900,
+   "h": 1600,
+   "c": "#747671",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.42.47-PM.jpeg"
+  },
+  {
+   "i": 10,
+   "w": 1332,
+   "h": 1600,
+   "c": "#9a958f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-20-at-2.42.45-PM-1.jpeg"
+  }
+ ],
+ "gmc-terrain-suv-paq-d-denali-2021": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 1200,
+   "c": "#7a7a74",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-5.01.23-PM.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1200,
+   "h": 1600,
+   "c": "#73756d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-5.01.21-PM-2.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 1200,
+   "c": "#7a7974",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-5.01.24-PM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 1200,
+   "c": "#7b7a72",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-5.01.23-PM-3.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 1200,
+   "c": "#2d2d29",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-5.01.20-PM-2.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 1200,
+   "c": "#787570",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-5.01.21-PM-1.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 1200,
+   "c": "#60605b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-5.01.23-PM-2.jpeg"
+  }
+ ],
+ "chevrolet-blazer-rs-2019": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#9b9a92",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-3.44.13-PM-7.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1291,
+   "h": 900,
+   "c": "#97968d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-3.44.13-PM-6.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1330,
+   "h": 858,
+   "c": "#a8a69c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-3.44.13-PM-3.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 900,
+   "c": "#59585f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-3.44.13-PM-2.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1103,
+   "h": 1280,
+   "c": "#a0a19a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-3.44.15-PM-1.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 900,
+   "c": "#9b9689",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-3.44.13-PM-5.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 900,
+   "h": 1600,
+   "c": "#5c5e5c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-3.44.14-PM-3.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1044,
+   "h": 1254,
+   "c": "#92958e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-3.44.15-PM-2.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 720,
+   "h": 1280,
+   "c": "#5d6162",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-3.44.14-PM-6.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1142,
+   "h": 1280,
+   "c": "#7a7972",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-3.44.15-PM.jpeg"
+  }
+ ],
+ "honda-civic-touring-2022": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#9998a0",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-19-at-9.45.55-AM.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1264,
+   "h": 816,
+   "c": "#9394a0",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-19-at-9.45.55-AM-1.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1444,
+   "h": 1600,
+   "c": "#8b8ca2",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-19-at-9.45.53-AM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1228,
+   "h": 821,
+   "c": "#6c6d65",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-19-at-9.45.55-AM-6.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1240,
+   "h": 1600,
+   "c": "#7a7c85",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-19-at-9.45.55-AM-4.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1288,
+   "h": 1600,
+   "c": "#9a9a9a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-19-at-9.45.53-AM-1.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 900,
+   "h": 1600,
+   "c": "#666869",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-19-at-9.45.54-AM-2.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1444,
+   "h": 1600,
+   "c": "#82808d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-19-at-9.45.54-AM.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1600,
+   "h": 900,
+   "c": "#837e89",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-19-at-9.45.55-AM-2.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 900,
+   "h": 1600,
+   "c": "#6b696e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-19-at-9.45.54-AM-3.jpeg"
+  }
+ ],
+ "jeep-wrangler-unlimited-sahara-2014": [
+  {
+   "i": 0,
+   "w": 1280,
+   "h": 960,
+   "c": "#6f6762",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-19-at-10.07.58-AM-34545.png"
+  },
+  {
+   "i": 1,
+   "w": 1280,
+   "h": 960,
+   "c": "#6e696b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-19-at-10.07.59-AM-1.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1280,
+   "h": 960,
+   "c": "#6f6762",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-19-at-10.07.58-AM-3.png"
+  },
+  {
+   "i": 3,
+   "w": 1280,
+   "h": 960,
+   "c": "#735251",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-19-at-10.07.58-AM-2.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 1200,
+   "c": "#865f5d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-19-at-10.04.11-AM.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 1200,
+   "c": "#474644",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-19-at-10.04.25-AM-2.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1280,
+   "h": 960,
+   "c": "#927876",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-19-at-10.07.58-AM-1.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1280,
+   "h": 960,
+   "c": "#5c5155",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-19-at-10.07.59-AM.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1600,
+   "h": 1200,
+   "c": "#64554f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-19-at-10.04.26-AM-2.jpeg"
+  }
+ ],
+ "dodge-ram-2500-2013-importada-con-pedimento": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 1200,
+   "c": "#68625c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/IMG-20250925-WA0016.jpg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 1200,
+   "c": "#8a837f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/IMG-20250925-WA0025.jpg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 1200,
+   "c": "#847c76",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/IMG-20250925-WA0015.jpg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 1200,
+   "c": "#948784",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/IMG-20250925-WA0017.jpg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 1200,
+   "c": "#958f8a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/IMG-20250925-WA0021.jpg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 1200,
+   "c": "#867e7a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/IMG-20250925-WA0022.jpg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 1200,
+   "c": "#6b6766",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/IMG-20250925-WA0020.jpg"
+  },
+  {
+   "i": 7,
+   "w": 1600,
+   "h": 1200,
+   "c": "#83756d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/IMG-20250925-WA0019.jpg"
+  }
+ ],
+ "chevrolet-silverado-2500-cab-extendida-2018": [
+  {
+   "i": 0,
+   "w": 1543,
+   "h": 900,
+   "c": "#94958c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-1.09.51-PM-3.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1333,
+   "h": 900,
+   "c": "#98978d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-1.09.51-PM-2.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 900,
+   "h": 1600,
+   "c": "#777670",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-1.09.52-PM-3.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1384,
+   "h": 1600,
+   "c": "#a8a89c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-1.09.52-PM-4.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 900,
+   "h": 1600,
+   "c": "#777871",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-1.09.52-PM-1.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1372,
+   "h": 900,
+   "c": "#8f8b84",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-1.09.51-PM-1.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 900,
+   "c": "#71736f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-1.09.52-PM-6.jpeg"
+  }
+ ],
+ "chevrolet-camaro-ss-2015": [
+  {
+   "i": 0,
+   "w": 2560,
+   "h": 1920,
+   "c": "#b56359",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/20250926_142837-scaled.jpg"
+  },
+  {
+   "i": 1,
+   "w": 2048,
+   "h": 1536,
+   "c": "#bc6565",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/20250926_143229-2048x1536.jpg"
+  },
+  {
+   "i": 2,
+   "w": 2048,
+   "h": 1536,
+   "c": "#b0766a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/20250926_142823-2048x1536.jpg"
+  },
+  {
+   "i": 3,
+   "w": 2048,
+   "h": 1536,
+   "c": "#ba6050",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/20250926_142853-2048x1536.jpg"
+  },
+  {
+   "i": 4,
+   "w": 2048,
+   "h": 1536,
+   "c": "#86716b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/20250926_143134-2048x1536.jpg"
+  },
+  {
+   "i": 5,
+   "w": 2048,
+   "h": 1536,
+   "c": "#665c5c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/20250926_143010-2048x1536.jpg"
+  },
+  {
+   "i": 6,
+   "w": 2048,
+   "h": 1536,
+   "c": "#a66764",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/09/20250926_142920-2048x1536.jpg"
+  }
+ ],
+ "audi-a3-dynamic-2020": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#898886",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-21-at-1.56.51-PM.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1348,
+   "h": 900,
+   "c": "#787878",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-21-at-1.56.50-PM-4.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 900,
+   "c": "#676662",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-21-at-1.56.51-PM-2.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 1600,
+   "c": "#a7a69f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-21-at-1.56.52-PM-1.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 900,
+   "h": 1600,
+   "c": "#7b7c75",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-21-at-1.56.51-PM-4.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 900,
+   "c": "#8d8c8b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-21-at-1.56.50-PM-3.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 900,
+   "h": 1600,
+   "c": "#838078",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-21-at-1.56.51-PM-3.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1600,
+   "h": 900,
+   "c": "#807b7a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-21-at-1.56.50-PM-1.jpeg"
+  }
+ ],
+ "lincoln-mkz-2016": [
+  {
+   "i": 0,
+   "w": 2560,
+   "h": 1920,
+   "c": "#85827f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/20230919_140958-scaled.jpg"
+  },
+  {
+   "i": 1,
+   "w": 2048,
+   "h": 1536,
+   "c": "#85827f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/20230919_140958-2048x1536.jpg"
+  },
+  {
+   "i": 2,
+   "w": 2048,
+   "h": 1536,
+   "c": "#8c8685",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/20230919_141033-2048x1536.jpg"
+  },
+  {
+   "i": 3,
+   "w": 2048,
+   "h": 1536,
+   "c": "#646562",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/20230919_141137-2048x1536.jpg"
+  },
+  {
+   "i": 4,
+   "w": 2048,
+   "h": 1536,
+   "c": "#72726f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/20230919_141342-2048x1536.jpg"
+  },
+  {
+   "i": 5,
+   "w": 2048,
+   "h": 1536,
+   "c": "#807a77",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/09/20230919_141422-2048x1536.jpg"
+  }
+ ],
+ "dodge-ram-1500-2015": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 1200,
+   "c": "#77746d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-12-at-9.37.46-AM-1.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 1200,
+   "c": "#75736e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-12-at-9.38.03-AM.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 1200,
+   "c": "#746c66",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-12-at-9.37.48-AM-3.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 1200,
+   "c": "#807d77",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-12-at-9.37.48-AM-2.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 1200,
+   "c": "#5c5858",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-12-at-9.37.48-AM.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 1200,
+   "c": "#5f5854",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-12-at-9.37.48-AM-1.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 1200,
+   "c": "#6f655f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-12-at-9.37.47-AM-2.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1600,
+   "h": 1200,
+   "c": "#6d6a68",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-12-at-9.37.47-AM-1.jpeg"
+  }
+ ],
+ "dodge-ram-1500-slt-2015": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 1200,
+   "c": "#847f79",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-05-at-11.13.01-AM-1-1.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 1200,
+   "c": "#827d78",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-05-at-11.13.03-AM-4.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 1200,
+   "c": "#847b74",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-05-at-11.13.03-AM-3.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 1200,
+   "c": "#8d8680",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-05-at-11.13.03-AM-2.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 1200,
+   "c": "#585757",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-05-at-11.13.03-AM.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 1200,
+   "c": "#565555",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-05-at-11.13.03-AM-1.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 1200,
+   "c": "#7e7f7e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-05-at-11.13.02-AM-3.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1600,
+   "h": 1200,
+   "c": "#74716f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-05-at-11.13.02-AM-2.jpeg"
+  }
+ ],
+ "audi-a3-sedan-tfsa-dynamic-2019": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#989995",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-01-at-12.19.38-PM-4.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1342,
+   "h": 900,
+   "c": "#9a9c97",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-01-at-12.19.38-PM-1.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1352,
+   "h": 1600,
+   "c": "#9d9e96",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-01-at-12.19.38-PM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 900,
+   "h": 1600,
+   "c": "#828279",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-01-at-12.19.38-PM-5.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1242,
+   "h": 882,
+   "c": "#a2a49e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-01-at-12.19.37-PM.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 900,
+   "h": 1600,
+   "c": "#7e7d78",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-01-at-12.19.39-PM-1.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1385,
+   "h": 875,
+   "c": "#9e9c97",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-01-at-12.19.37-PM-1.jpeg"
+  }
+ ],
+ "honda-crv-turbo-plus-cvt-2018": [
+  {
+   "i": 0,
+   "w": 2560,
+   "h": 1920,
+   "c": "#867b73",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/20250902_095942-scaled.jpg"
+  },
+  {
+   "i": 1,
+   "w": 2048,
+   "h": 1536,
+   "c": "#918b87",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/20250902_101120-2048x1536.jpg"
+  },
+  {
+   "i": 2,
+   "w": 2048,
+   "h": 1536,
+   "c": "#938982",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/20250902_095925-2048x1536.jpg"
+  },
+  {
+   "i": 3,
+   "w": 2048,
+   "h": 1536,
+   "c": "#937f7a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/20250902_100006-2048x1536.jpg"
+  },
+  {
+   "i": 4,
+   "w": 2048,
+   "h": 1536,
+   "c": "#706e6d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/20250902_100254-2048x1536.jpg"
+  },
+  {
+   "i": 5,
+   "w": 2048,
+   "h": 1536,
+   "c": "#78716b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/20250902_101032-2048x1536.jpg"
+  },
+  {
+   "i": 6,
+   "w": 2048,
+   "h": 1536,
+   "c": "#595655",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/20250902_100153-2048x1536.jpg"
+  },
+  {
+   "i": 7,
+   "w": 2048,
+   "h": 1536,
+   "c": "#939191",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/02/20250902_100100-2048x1536.jpg"
+  }
+ ],
+ "jeep-grand-cherokee-limited-lujo-2015": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#a6a49d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-10.59.38-AM.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 900,
+   "c": "#85827b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-10.59.38-AM-1.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 900,
+   "c": "#6b6866",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-19-at-12.49.37-PM-2.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1272,
+   "h": 830,
+   "c": "#a9a7a1",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-10.59.36-AM.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 900,
+   "h": 1600,
+   "c": "#70716e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-19-at-12.49.38-PM.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1332,
+   "h": 1600,
+   "c": "#949590",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-10.59.37-AM.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 900,
+   "h": 1600,
+   "c": "#595b57",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-19-at-12.49.38-PM-1.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1284,
+   "h": 894,
+   "c": "#8c8f8a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-19-at-12.49.39-PM-2.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 900,
+   "h": 1600,
+   "c": "#6c6c5b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-19-at-12.49.37-PM-1.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1600,
+   "h": 1177,
+   "c": "#a2a49e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-19-at-12.49.38-PM-4.jpeg"
+  },
+  {
+   "i": 10,
+   "w": 1600,
+   "h": 900,
+   "c": "#9b948c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-24-at-10.59.37-AM-2.jpeg"
+  }
+ ],
+ "mercedes-benz-clase-cla-200-2017": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 1200,
+   "c": "#7c7972",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-11-at-10.57.56-AM.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 1200,
+   "c": "#928b81",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-11-at-10.57.57-AM-3-1.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 1200,
+   "c": "#7c7068",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-11-at-10.57.58-AM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 1200,
+   "c": "#747069",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-11-at-10.57.58-AM-1.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 1200,
+   "c": "#686460",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-11-at-10.57.57-AM-1.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 1200,
+   "c": "#716c66",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-11-at-10.57.57-AM-2.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 1200,
+   "c": "#767471",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-11-at-10.57.57-AM.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1600,
+   "h": 1200,
+   "c": "#6a6562",
+   "src": "https://semimex.com.mx/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-11-at-10.57.56-AM-3.jpeg"
+  }
+ ],
+ "mercedes-benz-gla-250-2017": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 900,
+   "c": "#a0a19d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-3.10.01-PM.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 1066,
+   "c": "#b2b0b0",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-3.09.58-PM-1.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 900,
+   "c": "#5c5c5e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-3.10.02-PM-2.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 900,
+   "c": "#a49f9e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-3.10.00-PM-2.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 1066,
+   "c": "#b8b6b5",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-3.09.59-PM-1.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 900,
+   "h": 1600,
+   "c": "#6a696a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-3.10.02-PM-3.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 1066,
+   "c": "#928e8e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-3.10.00-PM.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 900,
+   "h": 1600,
+   "c": "#666769",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-3.10.02-PM-4.jpeg"
+  }
+ ],
+ "chevrolet-cavalier-ls-2019": [
+  {
+   "i": 0,
+   "w": 2560,
+   "h": 1920,
+   "c": "#8b8885",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/08/20230824_152120-scaled.jpg"
+  },
+  {
+   "i": 1,
+   "w": 2048,
+   "h": 1536,
+   "c": "#84827e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/08/20230824_152136-2048x1536.jpg"
+  },
+  {
+   "i": 2,
+   "w": 2048,
+   "h": 1536,
+   "c": "#67696a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/08/20230824_152246-2048x1536.jpg"
+  }
+ ],
+ "ram-700-adventure-2019": [
+  {
+   "i": 0,
+   "w": 1280,
+   "h": 720,
+   "c": "#a3a59e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-1.11.24-PM-5.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1280,
+   "h": 720,
+   "c": "#aaaaa0",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-1.11.24-PM-4.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1280,
+   "h": 720,
+   "c": "#70716f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-1.11.24-PM-3.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1280,
+   "h": 853,
+   "c": "#a8a6a5",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-1.11.25-PM-5.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 720,
+   "h": 1280,
+   "c": "#6e6d6d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-1.11.24-PM-2.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1280,
+   "h": 853,
+   "c": "#acacab",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-1.11.25-PM-6.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 720,
+   "h": 1280,
+   "c": "#6d7373",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-1.11.24-PM.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1280,
+   "h": 853,
+   "c": "#898686",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-1.11.25-PM-4.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1280,
+   "h": 720,
+   "c": "#8f8a7f",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-1.11.25-PM-1.jpeg"
+  }
+ ],
+ "nissan-pathfinder-advance-2015": [
+  {
+   "i": 0,
+   "w": 1280,
+   "h": 720,
+   "c": "#7f7f77",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-9.01.13-AM-3.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1280,
+   "h": 720,
+   "c": "#788280",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-9.01.13-AM-4.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1280,
+   "h": 720,
+   "c": "#786f66",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-9.01.13-AM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1226,
+   "h": 778,
+   "c": "#8c8e90",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-9.01.12-AM.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1280,
+   "h": 720,
+   "c": "#7a7973",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-9.01.13-AM-5.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1280,
+   "h": 720,
+   "c": "#8f8f83",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-9.01.14-AM.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1280,
+   "h": 720,
+   "c": "#607072",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-9.01.14-AM-4.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 720,
+   "h": 1280,
+   "c": "#909187",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-9.01.12-AM-4.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1280,
+   "h": 852,
+   "c": "#9b9b9b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-9.01.12-AM-1.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1280,
+   "h": 852,
+   "c": "#6e6968",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-9.01.13-AM-6.jpeg"
+  },
+  {
+   "i": 10,
+   "w": 720,
+   "h": 1280,
+   "c": "#8d887a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-9.01.12-AM-3.jpeg"
+  }
+ ],
+ "toyota-prius-2016": [
+  {
+   "i": 0,
+   "w": 1195,
+   "h": 720,
+   "c": "#a8a79c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-04-at-8.45.44-AM-8.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1154,
+   "h": 720,
+   "c": "#b1aea4",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-04-at-8.45.44-AM-5.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1280,
+   "h": 720,
+   "c": "#5f5f62",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-04-at-8.45.44-AM-4.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1207,
+   "h": 696,
+   "c": "#9e9d96",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-04-at-8.45.44-AM-6.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 720,
+   "h": 1280,
+   "c": "#767e80",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-04-at-8.45.44-AM-2.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1123,
+   "h": 732,
+   "c": "#9a9999",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-04-at-8.45.44-AM-11.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 720,
+   "h": 1280,
+   "c": "#71706b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-04-at-8.45.44-AM.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1097,
+   "h": 703,
+   "c": "#bab9ae",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-04-at-8.45.44-AM-9.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1087,
+   "h": 664,
+   "c": "#a2a19c",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-04-at-8.45.44-AM-3.jpeg"
+  }
+ ],
+ "dodge-ram-1500-2014-importada-con-decreto": [
+  {
+   "i": 0,
+   "w": 1280,
+   "h": 720,
+   "c": "#8d8f89",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-04-at-2.52.31-PM-4.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1280,
+   "h": 720,
+   "c": "#93938b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-04-at-2.52.31-PM-2.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1280,
+   "h": 720,
+   "c": "#67696b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-04-at-2.52.30-PM-2.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 1066,
+   "c": "#888787",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-04-at-2.52.29-PM-1.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 720,
+   "h": 1280,
+   "c": "#5d6262",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-04-at-2.52.30-PM-6.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1280,
+   "h": 720,
+   "c": "#787470",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-04-at-2.52.30-PM-5.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 720,
+   "h": 1280,
+   "c": "#686864",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-04-at-2.52.31-PM-1.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1528,
+   "h": 1032,
+   "c": "#88898a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-04-at-2.52.29-PM.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 720,
+   "h": 1280,
+   "c": "#797974",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-04-at-2.52.31-PM-3.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1600,
+   "h": 1066,
+   "c": "#6d686b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-04-at-2.52.30-PM.jpeg"
+  }
+ ],
+ "volkswagen-sedan-2-puertas-estandar-1993": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 1066,
+   "c": "#a59996",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.41.42-PM-1.jpg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 1066,
+   "c": "#a19392",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.41.42-PM.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 1066,
+   "c": "#817678",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.41.42-PM-5.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 1066,
+   "c": "#9a7f80",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.41.42-PM-2.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 1066,
+   "c": "#907b7a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.41.42-PM-4.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1600,
+   "h": 1066,
+   "c": "#968988",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.41.41-PM-1.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 1066,
+   "c": "#7e7272",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.41.43-PM-1.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1600,
+   "h": 1066,
+   "c": "#7b6d72",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.41.43-PM.jpeg"
+  }
+ ],
+ "mercury-grand-marquis-2007": [
+  {
+   "i": 0,
+   "w": 1600,
+   "h": 1200,
+   "c": "#a7a49b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-27-at-11.04.08-AM-2.jpg"
+  },
+  {
+   "i": 1,
+   "w": 1600,
+   "h": 1200,
+   "c": "#827e77",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-27-at-11.04.08-AM.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1600,
+   "h": 1200,
+   "c": "#7c736d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-27-at-11.04.09-AM.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1600,
+   "h": 1200,
+   "c": "#8a817b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-27-at-11.04.09-AM-1.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 1200,
+   "c": "#91816e",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-27-at-11.04.09-AM-3.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1200,
+   "h": 1600,
+   "c": "#918977",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-27-at-11.04.09-AM-2.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1600,
+   "h": 1200,
+   "c": "#686154",
+   "src": "https://semimex.com.mx/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-27-at-11.04.09-AM-4.jpeg"
+  }
+ ],
+ "ford-bronco-big-ben-sport-2024": [
+  {
+   "i": 0,
+   "w": 1200,
+   "h": 1600,
+   "c": "#a99f92",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.24.43-AM-3.jpeg"
+  },
+  {
+   "i": 1,
+   "w": 1200,
+   "h": 1600,
+   "c": "#c6bcb4",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.24.43-AM.jpeg"
+  },
+  {
+   "i": 2,
+   "w": 1132,
+   "h": 1135,
+   "c": "#96736a",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.24.43-AM-1.jpeg"
+  },
+  {
+   "i": 3,
+   "w": 1200,
+   "h": 1600,
+   "c": "#877064",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.24.44-AM-1.jpeg"
+  },
+  {
+   "i": 4,
+   "w": 1600,
+   "h": 1200,
+   "c": "#b5a094",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.24.43-AM-2.jpeg"
+  },
+  {
+   "i": 5,
+   "w": 1200,
+   "h": 1600,
+   "c": "#646462",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.24.44-AM-4.jpeg"
+  },
+  {
+   "i": 6,
+   "w": 1200,
+   "h": 1600,
+   "c": "#635a59",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.24.45-AM-2.jpeg"
+  },
+  {
+   "i": 7,
+   "w": 1200,
+   "h": 1600,
+   "c": "#6b5751",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.24.45-AM-1.jpeg"
+  },
+  {
+   "i": 8,
+   "w": 1200,
+   "h": 1600,
+   "c": "#bcb4aa",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.24.46-AM-1.jpeg"
+  },
+  {
+   "i": 9,
+   "w": 1200,
+   "h": 1600,
+   "c": "#928982",
+   "src": "https://semimex.com.mx/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-9.24.46-AM.jpeg"
+  }
+ ],
+ "range-rover-sport-supercharger-20217": [
+  {
+   "i": 0,
+   "w": 2048,
+   "h": 1536,
+   "c": "#85817d",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/08/20230816_103250-2048x1536.jpg"
+  },
+  {
+   "i": 1,
+   "w": 2048,
+   "h": 1536,
+   "c": "#807a78",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/08/20230816_103324-2048x1536.jpg"
+  },
+  {
+   "i": 2,
+   "w": 2048,
+   "h": 1536,
+   "c": "#645b56",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/08/20230816_103601-2048x1536.jpg"
+  },
+  {
+   "i": 3,
+   "w": 2048,
+   "h": 1536,
+   "c": "#78726b",
+   "src": "https://semimex.com.mx/wp-content/uploads/2023/08/20230816_103626-2048x1536.jpg"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+[
+ {
+  "base": "lote-1",
+  "alt": "Lote de SemiMex en Cuauhtémoc, Chihuahua: Ford Mustang GT y camionetas seminuevas frente a las instalaciones",
+  "color": "#7c8693",
+  "d": {
+   "w": 1448,
+   "h": 1086,
+   "anchos": [
+    640,
+    960,
+    1280
+   ]
+  },
+  "m": {
+   "w": 1448,
+   "h": 905,
+   "anchos": [
+    480,
+    720,
+    1080,
+    1440
+   ]
+  },
+  "hero": true,
+  "posD": "50% 50%",
+  "posM": "50% 45%"
+ },
+ {
+  "base": "lote-3",
+  "alt": "Ford F-150 Platinum y Mustang GT seminuevos exhibidos frente al edificio de SemiMex",
+  "color": "#727378",
+  "d": {
+   "w": 1448,
+   "h": 1086,
+   "anchos": [
+    640,
+    960,
+    1280
+   ]
+  },
+  "m": {
+   "w": 1448,
+   "h": 905,
+   "anchos": [
+    480,
+    720,
+    1080,
+    1440
+   ]
+  },
+  "hero": true,
+  "posD": "74% 50%",
+  "posM": "50% 42%"
+ },
+ {
+  "base": "lote-2",
+  "alt": "Fila de pick-ups Ford F-150 seminuevas en el piso de venta de SemiMex",
+  "color": "#7a8391",
+  "d": {
+   "w": 1122,
+   "h": 842,
+   "anchos": [
+    640,
+    960
+   ]
+  },
+  "m": {
+   "w": 1122,
+   "h": 701,
+   "anchos": [
+    480,
+    720,
+    1080
+   ]
+  },
+  "hero": false,
+  "posD": "50% 50%",
+  "posM": "50% 50%"
+ }
+]

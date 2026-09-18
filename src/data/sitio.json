@@ -1,0 +1,67 @@
+{
+  "nombre": "SemiMex",
+  "nombreLargo": "SemiMex — Seminuevos Mexicanos",
+  "razonSocial": "Comercializadora de Seminuevos Mexicanos S.A. de C.V.",
+  "tagline": "Seminuevos Mexicanos",
+  "descripcion": "Compra y venta de autos, camionetas y pick-ups seminuevos en Cuauhtémoc, Chihuahua. Unidades revisadas, financiamiento bancario y tomamos tu auto a cuenta.",
+  "url": "https://semimex.com.mx",
+  "idioma": "es-MX",
+  "fundacion": "",
+  "telefonos": [
+    { "etiqueta": "Oficina",  "numero": "625 586 3339", "tel": "+526255863339", "whatsapp": false },
+    { "etiqueta": "Ventas",   "numero": "625 589 4554", "tel": "+526255894554", "whatsapp": true },
+    { "etiqueta": "Ventas 2", "numero": "625 118 3117", "tel": "+526251183117", "whatsapp": true }
+  ],
+  "whatsapp": "5216255894554",
+  "emails": [
+    { "etiqueta": "General", "email": "info@semimex.com.mx" },
+    { "etiqueta": "Ventas",  "email": "armando@semimex.com.mx" },
+    { "etiqueta": "Ventas",  "email": "jaime@semimex.com.mx" }
+  ],
+  "direccion": {
+    "calle": "Carretera Estatal Cuauhtémoc – Álvaro Obregón Km 12.5, No. 1240",
+    "colonia": "Col. Campo Número 20",
+    "ciudad": "Cuauhtémoc",
+    "estado": "Chihuahua",
+    "cp": "31607",
+    "pais": "México",
+    "mapaQuery": "Carretera+Estatal+Cuauhtemoc+Alvaro+Obregon+Km+12.5+1240+Cuauhtemoc+Chihuahua"
+  },
+  "horario": [
+    { "dias": "Lunes a Viernes", "horas": "9:00 – 18:00" },
+    { "dias": "Sábado",          "horas": "9:00 – 14:00" },
+    { "dias": "Domingo",         "horas": "Cerrado" }
+  ],
+  "redes": {
+    "facebook": "https://www.facebook.com/semimex12/",
+    "instagram": "",
+    "tiktok": "",
+    "youtube": ""
+  },
+  "asociaciones": [
+    { "nombre": "ANCA", "descripcion": "Asociación Nacional de Comerciantes en Automóviles y Camiones", "url": "https://www.anca.org.mx/" }
+  ],
+  "beneficios": [
+    { "icono": "shield",   "titulo": "Unidades verificadas",      "texto": "Cada seminuevo pasa por revisión mecánica y de documentación antes de exhibirse. Nada entra al piso de venta sin revisar." },
+    { "icono": "bank",     "titulo": "Financiamiento bancario",   "texto": "Trabajamos con las principales instituciones del país. Te ayudamos a armar el expediente y buscamos el mejor plan para ti." },
+    { "icono": "swap",     "titulo": "Tomamos tu auto a cuenta",  "texto": "Valuamos tu unidad actual el mismo día y la aplicamos como enganche. Menos trámites, menos vueltas." },
+    { "icono": "file",     "titulo": "Papeles en regla",          "texto": "Facturas, tenencias y verificaciones al corriente. Unidades importadas con pedimento o decreto claramente identificadas." },
+    { "icono": "tag",      "titulo": "Precio directo",            "texto": "Somos el lote, no intermediarios. El precio que ves es con el que negocias, sin comisiones ocultas." },
+    { "icono": "handshake","titulo": "Trato personal",            "texto": "Atención directa con el dueño y el equipo de ventas. Te acompañamos desde la prueba de manejo hasta la entrega." }
+  ],
+  "pasos": [
+    { "n": 1, "titulo": "Elige tu unidad", "texto": "Explora el inventario en línea con fotos reales de cada vehículo. Filtra por tipo, marca, año y presupuesto." },
+    { "n": 2, "titulo": "Agenda tu cita",  "texto": "Escríbenos por WhatsApp o llámanos. Apartamos la unidad y la preparamos para tu prueba de manejo." },
+    { "n": 3, "titulo": "Revisa y prueba", "texto": "Ven al lote, revisa la unidad con calma, manéjala y pregunta todo lo que necesites saber." },
+    { "n": 4, "titulo": "Cierra y estrena","texto": "Contado, financiamiento o a cuenta de tu auto actual. Salimos con papeles en orden el mismo día." }
+  ],
+  "faq": [
+    { "p": "¿Manejan financiamiento?", "r": "Sí. Trabajamos con varias instituciones bancarias y financieras. Con tu identificación, comprobante de ingresos y comprobante de domicilio podemos pre-autorizarte. El enganche y el plazo se ajustan a tu perfil." },
+    { "p": "¿Reciben mi auto a cuenta?", "r": "Sí. Lo valuamos sin costo y sin compromiso. Si te sirve el avalúo, lo aplicamos como enganche de la unidad que elijas y nosotros nos encargamos del cambio de propietario." },
+    { "p": "¿Las unidades tienen garantía?", "r": "Cada unidad se entrega revisada mecánicamente. La cobertura varía según el vehículo, el año y el kilometraje: pregúntanos por la unidad que te interesa y te decimos exactamente qué incluye." },
+    { "p": "¿Qué significa \"importada con pedimento\" o \"con decreto\"?", "r": "Son unidades legalmente internadas a México con su documentación aduanal. El pedimento o el decreto es el documento que ampara la importación. Te mostramos el documento original antes de cualquier trato." },
+    { "p": "¿Puedo apartar un vehículo?", "r": "Sí. Con un anticipo apartamos la unidad mientras completas el trámite o vienes desde otra ciudad. Escríbenos por WhatsApp para coordinarlo." },
+    { "p": "¿Atienden a clientes de otras ciudades?", "r": "Con frecuencia. Te enviamos fotos y video adicionales de la unidad, resolvemos dudas por WhatsApp y coordinamos la entrega. Muchos de nuestros clientes vienen de Chihuahua capital y de la región." }
+  ],
+  "avisoPrivacidadVigencia": "Septiembre 2026"
+}
