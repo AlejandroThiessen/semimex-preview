@@ -57,7 +57,10 @@
         slides.forEach((s, k) => s.setAttribute('data-active', String(k === hi)));
         dots.forEach((d, k) => d.setAttribute('aria-selected', String(k === hi)));
       };
-      const start = () => { stop(); timer = setInterval(() => go(hi + 1), DUR); };
+      const ready = (n) => { const im = slides[n] && slides[n].querySelector('img'); return im && im.complete && im.naturalWidth > 0; };
+      // Si la siguiente foto aún no cargó, esperar otro ciclo antes de cambiar
+      const tick = () => { if (ready((hi + 1) % slides.length)) go(hi + 1); };
+      const start = () => { stop(); timer = setInterval(tick, DUR); };
       const stop  = () => { if (timer) { clearInterval(timer); timer = null; } };
 
       dots.forEach((d, k) => d.addEventListener('click', () => { go(k); start(); }));
@@ -73,6 +76,33 @@
         }, { threshold: 0.15 }).observe(heroMedia);
       } else maybeStart();
     }
+  }
+
+  /* ---------- El WhatsApp flotante se repliega ---------- */
+  /* Si ya hay un botón de WhatsApp a la vista, el flotante sobra y además se
+     encimaba con él en móvil. Se calcula con getBoundingClientRect en cada
+     scroll: IntersectionObserver se disparaba antes de que la página terminara
+     de acomodarse y no volvía a evaluarlo. */
+  const waFloat = $('.wa-float');
+  const waBotones = $$('.btn--wa').filter(b => !b.closest('[data-mobile-nav]'));
+  if (waFloat && waBotones.length) {
+    let pendiente = false;
+    const evaluar = () => {
+      pendiente = false;
+      const alto = window.innerHeight || document.documentElement.clientHeight;
+      // Basta con que asome: si se exige un porcentaje, el flotante alcanza a
+      // encimarse con el botón mientras éste entra por abajo.
+      const visible = waBotones.some(b => {
+        const r = b.getBoundingClientRect();
+        return r.height > 0 && r.bottom > 0 && r.top < alto;
+      });
+      waFloat.classList.toggle('is-tucked', visible);
+    };
+    const pedir = () => { if (!pendiente) { pendiente = true; requestAnimationFrame(evaluar); } };
+    addEventListener('scroll', pedir, { passive: true });
+    addEventListener('resize', pedir);
+    addEventListener('load', pedir);
+    evaluar();
   }
 
   /* ---------- Catálogo: filtros, orden y URL ---------- */
