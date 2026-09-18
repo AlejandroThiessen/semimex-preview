@@ -1,0 +1,12 @@
+# Salida del build (se publica en la rama gh-pages)
+dist/
+
+# Sistema
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
+
+# Copias sueltas de las fotos del lote (los originales viven en src/fotos/)
+/*.PNG
+/*.png
